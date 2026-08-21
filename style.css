@@ -65,13 +65,6 @@ nav a:hover, nav a.active {
     text-decoration: none;
 }
 
-.offer {
-    background-color: #d07a2d;
-    color: white;
-    padding: 12px;
-    text-align: center;
-}
-
 .container {
     margin: auto;
     padding: 30px;
@@ -173,7 +166,7 @@ textarea {
     color: #60351f;
 }
 
-.video-section video {
+.video-section video {   
     height: 350px;
     margin-top: 15px;
     width: 70%;
