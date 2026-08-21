@@ -171,3 +171,47 @@ textarea {
     margin-top: 15px;
     width: 70%;
 }
+
+.gallery-list {
+    background-color: #ead0b5;
+    border: 1px solid #d07a2d;
+    display: inline-block;
+    line-height: 28px;
+    margin-bottom: 25px;
+    padding: 15px 35px;
+    text-align: left;
+}
+
+.gallery {
+    text-align: center;
+}
+
+.gallery figure {
+    background-color: white;
+    border: 1px solid #d07a2d;
+    display: inline-block;
+    margin: 12px;
+    padding: 10px;
+    vertical-align: top;
+    width: 270px;
+}
+
+.gallery img {
+    height: 180px;
+    object-fit: cover;
+    width: 270px;
+}
+
+.gallery figcaption {
+    padding: 8px;
+}
+
+.gallery h3 {
+    color: #60351f;
+    margin: 5px;
+}
+
+.gallery p {
+    font-size: 14px;
+    line-height: 20px;
+}
